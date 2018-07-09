@@ -1,0 +1,28 @@
+{
+	"name": "koa-single-page",
+	"version": "18.7.9",
+	"description": "...",
+	"main": "koa-single-page.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SeregPie/koa-single-page.git"
+	},
+	"keywords": [
+		"app",
+		"file",
+		"index",
+		"koa",
+		"page",
+		"public",
+		"send",
+		"single",
+		"spa",
+		"static"
+	],
+	"author": "Sergej Sintschilin",
+	"license": "MIT",
+	"dependencies": {
+		"koa": "^2.5.1",
+		"koa-send": "^5.0.0"
+	}
+}
