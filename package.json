@@ -5,7 +5,7 @@
 	"main": "KoaSinglePage.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/SeregPie/koa-single-page.git"
+		"url": "git+https://github.com/SeregPie/KoaSinglePage.git"
 	},
 	"keywords": [
 		"app",
