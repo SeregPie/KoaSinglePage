@@ -1,6 +1,6 @@
 {
 	"name": "koa-single-page",
-	"version": "18.7.9",
+	"version": "18.7.18",
 	"description": "...",
 	"main": "koa-single-page.js",
 	"repository": {
@@ -22,7 +22,7 @@
 	"author": "Sergej Sintschilin",
 	"license": "MIT",
 	"dependencies": {
-		"koa": "^2.5.1",
+		"koa": "^2.5.2",
 		"koa-send": "^5.0.0"
 	}
 }
