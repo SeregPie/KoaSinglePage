@@ -2,7 +2,7 @@
 
 `KoaSinglePage(root, {index = 'index.html'})`
 
-...
+A Koa single page application middleware.
 
 ## dependencies
 
@@ -16,20 +16,15 @@
 npm install koa-single-page
 ```
 
-### ES module
-
-```javascript
-import KoaSinglePage from 'koa-single-page';
-```
-
 ### Node
 
 ```javascript
-const KoaSinglePage = require('koa-single-page');
+let KoaSinglePage = require('koa-single-page');
 ```
 
 ## usage
 
 ```javascript
-
+let app = new Koa();
+app.use(KoaSinglePage('public'));
 ```
