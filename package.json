@@ -19,7 +19,9 @@
 	"main": "KoaSinglePage.js",
 	"repository": "https://github.com/SeregPie/KoaSinglePage.git",
 	"dependencies": {
-		"koa": "^2.6.1",
 		"koa-send": "^5.0.0"
+	},
+	"peerDependencies": {
+		"koa": "^2.6.1"
 	}
 }
