@@ -2,11 +2,12 @@
 
 `KoaSinglePage(root, {index = 'index.html'})`
 
-A Koa single page application middleware.
+A single page application middleware.
 
 ## dependencies
 
 - [Koa](https://github.com/koajs/koa)
+- [KoaSend](https://github.com/koajs/send)
 
 ## setup
 
