@@ -2,8 +2,6 @@
 	"name": "koa-single-page",
 	"version": "18.8.8",
 	"description": "A Koa single page application middleware.",
-	"main": "KoaSinglePage.js",
-	"repository": "https://github.com/SeregPie/KoaSinglePage.git",
 	"keywords": [
 		"app",
 		"file",
@@ -16,8 +14,10 @@
 		"spa",
 		"static"
 	],
-	"author": "Sergej Sintschilin <seregpie@gmail.com>",
 	"license": "MIT",
+	"author": "Sergej Sintschilin <seregpie@gmail.com>",
+	"main": "KoaSinglePage.js",
+	"repository": "https://github.com/SeregPie/KoaSinglePage.git",
 	"dependencies": {
 		"koa": "^2.5.2",
 		"koa-send": "^5.0.0"
