@@ -16,12 +16,12 @@
 	],
 	"license": "MIT",
 	"author": "Sergej Sintschilin <seregpie@gmail.com>",
-	"main": "KoaSinglePage.js",
+	"main": "index.js",
 	"repository": "https://github.com/SeregPie/KoaSinglePage.git",
 	"dependencies": {
 		"koa-send": "^5.0.0"
 	},
 	"peerDependencies": {
-		"koa": "^2.6.1"
+		"koa": "^2.7.0"
 	}
 }

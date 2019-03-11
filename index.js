@@ -5,10 +5,10 @@ module.exports = function(root, {index = 'index.html'} = {}) {
 	return async function(ctx, next) {
 		try {
 			await KoaSend(ctx, ctx.path, options);
-		} catch (error) {
+		} catch (unused) {
 			try {
 				await KoaSend(ctx, '/', options);
-			} catch (error) {
+			} catch (unused) {
 				await next();
 			}
 		}

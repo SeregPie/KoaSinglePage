@@ -6,7 +6,6 @@ A single page application middleware.
 
 ## dependencies
 
-- [Koa](https://github.com/koajs/koa)
 - [KoaSend](https://github.com/koajs/send)
 
 ## setup
@@ -14,7 +13,7 @@ A single page application middleware.
 ### npm
 
 ```shell
-npm install koa-single-page
+npm i koa-single-page
 ```
 
 ### Node
