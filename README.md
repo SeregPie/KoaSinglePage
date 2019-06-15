@@ -1,6 +1,11 @@
 # KoaSinglePage
 
-`KoaSinglePage(root, {index = 'index.html'})`
+```
+KoaSinglePage(root, {
+  index = 'index.html',
+  maxAge = 0,
+})
+```
 
 A single page application middleware.
 
@@ -16,7 +21,7 @@ A single page application middleware.
 npm i koa-single-page
 ```
 
-### Node
+### node
 
 ```javascript
 let KoaSinglePage = require('koa-single-page');
