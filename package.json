@@ -1,6 +1,6 @@
 {
 	"name": "koa-single-page",
-	"version": "18.11.0",
+	"version": "19.0.0",
 	"description": "A single page application middleware.",
 	"keywords": [
 		"app",
@@ -18,9 +18,6 @@
 	"author": "Sergej Sintschilin <seregpie@gmail.com>",
 	"main": "index.js",
 	"repository": "https://github.com/SeregPie/KoaSinglePage.git",
-	"dependencies": {
-		"koa-send": "^5.0.0"
-	},
 	"peerDependencies": {
 		"koa": "^2.7.0"
 	}
